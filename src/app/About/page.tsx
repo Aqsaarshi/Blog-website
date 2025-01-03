@@ -17,7 +17,7 @@ const Page = () => {
 
         <p>
           Our mission is simple: to inspire confidence and individuality through
-          every outfit you wear. Whether you're a fashion enthusiast or just
+          every outfit you wear. Whether you are a fashion enthusiast or just
           looking for a few styling tips, AQSA AURA is here to guide you on your
           journey.
         </p>

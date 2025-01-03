@@ -1,5 +1,5 @@
 import Image from "next/image";
-import men from "../../../public/image/men.jpg";
+
 import Link from "next/link";
 import { urlForImage } from "@/sanity/lib/image";
 

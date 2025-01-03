@@ -1,7 +1,6 @@
 //is page mai jo blog ha uska content hoga pora
 import Image from "next/image";
 import React from "react";
-import men from "../../../../public/image/men.jpg";
 
 import { client } from "@/sanity/lib/client";
 import { urlForImage } from "@/sanity/lib/image";

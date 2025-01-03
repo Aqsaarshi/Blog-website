@@ -1,5 +1,5 @@
 import { client } from "@/sanity/lib/client";
-import post from "@/sanity/schemaTypes/postType";
+
 import BlogCard from "./component/BlogCard";
 export const revalidate = 10;
 export default async function Home() {
